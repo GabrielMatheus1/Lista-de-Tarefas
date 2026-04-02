@@ -10,16 +10,13 @@ Aplicacao web de lista de tarefas (To-Do List) desenvolvida com HTML, CSS e Java
 
 ## Preview
 
-Se quiser deixar seu repositorio mais atrativo, adicione aqui um print ou gif da interface:
+<img width="1084" height="635" alt="image" src="https://github.com/user-attachments/assets/3a04ccc6-5ad3-49fb-a54c-7908f89227b9" />
 
-```md
-! [alt text](image.png)
-```
 
 
 ## Acesso ao projeto
 
-![](https://img.shields.io/badge/Acessar-Tarefas-2563eb?logo=github&logoColor=fff)
+<a href="https://github.com/GabrielMatheus1/Lista_de_Tarefas">![](https://img.shields.io/badge/Acessar-Tarefas-2563eb?logo=github&logoColor=fff)</a>
 
 
 ## Funcionalidades
